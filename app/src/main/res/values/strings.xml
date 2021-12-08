@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daniweb Implicit Intent</string>
+    <string name="button">Open URL</string>
+    <string name="edit_text_hint">Enter a URL</string>
+</resources>
